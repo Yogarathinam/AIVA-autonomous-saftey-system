@@ -2,7 +2,7 @@
 
 > **Theme:** Smart Manufacturing & Industry 4.0  
 > **Event:** Dev Arena 2025 — TechSaavy Club, Easwari Engineering College  
-> **Team:** [Your Team Name]  
+> **Team:** Team Phoenix
 > **Developed by:** Yogarathinam T.L
 
 ---
